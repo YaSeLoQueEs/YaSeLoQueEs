@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Marinda RolePlay Server](https://discord.gg/ZtGfy9N8Yf)
 
-- 🌱 I’m currently learning **FRONT END**
+- 🌱 I’m currently learning **front end**
 
 - 🤝 I’m looking for help with **language .LUA**
 
